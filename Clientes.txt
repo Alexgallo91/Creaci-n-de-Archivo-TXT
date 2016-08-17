@@ -1,0 +1,5 @@
+1 Abraham Araujo 4000,00
+2 Miguel Araujo 3000,00
+3 Jose Marin 0,00
+4 Ricardo Quiensabe -3000,00
+5 Jilmar Marin 0,00
